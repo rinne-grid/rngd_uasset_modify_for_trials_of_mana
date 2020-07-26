@@ -76,3 +76,5 @@ fabric.properties
 
 build/*
 dist/*
+
+__pycache__/
